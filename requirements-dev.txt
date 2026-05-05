@@ -1,0 +1,4 @@
+pytest>=7.4
+pytest-mock>=3.12
+responses>=0.25
+graphql-core>=3.2
